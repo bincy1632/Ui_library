@@ -1,0 +1,27 @@
+{
+  "name": "snabbdomlernaui",
+  "version": "0.0.0",
+  "description": " The UI library created for this task aims to provide developers with a versatile toolkit for building dynamic user interfaces using Snabbdom and Lerna",
+  "keywords": [
+    "Component",
+    "Library",
+    "Lifecycle",
+    "Events",
+    "Reactivity",
+    "Templating"
+  ],
+  "author": "BINCY MARIYAM <bincymariyam97@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/ui-library.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/ui-library.test.js"
+  }
+}
